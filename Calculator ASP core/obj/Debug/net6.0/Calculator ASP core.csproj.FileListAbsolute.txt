@@ -1,0 +1,52 @@
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\appsettings.json
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\Calculator ASP core.staticwebassets.runtime.json
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\Calculator ASP core.exe
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\Calculator ASP core.deps.json
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\Calculator ASP core.runtimeconfig.json
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\Calculator ASP core.dll
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\ref\Calculator ASP core.dll
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\Calculator ASP core.pdb
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.csproj.AssemblyReference.cache
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.AssemblyInfoInputs.cache
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.AssemblyInfo.cs
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.csproj.CoreCompileInputs.cache
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.RazorAssemblyInfo.cache
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.RazorAssemblyInfo.cs
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\scopedcss\bundle\Calculator ASP core.styles.css
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\scopedcss\projectbundle\Calculator ASP core.bundle.scp.css
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.dll
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\ref\Calculator ASP core.dll
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.pdb
+C:\Users\TUF laptop\Desktop\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.genruntimeconfig.cache
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\appsettings.Development.json
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\appsettings.json
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\Calculator ASP core.staticwebassets.runtime.json
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\Calculator ASP core.exe
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\Calculator ASP core.deps.json
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\Calculator ASP core.runtimeconfig.json
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\Calculator ASP core.dll
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\ref\Calculator ASP core.dll
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\bin\Debug\net6.0\Calculator ASP core.pdb
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.csproj.AssemblyReference.cache
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.AssemblyInfoInputs.cache
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.AssemblyInfo.cs
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.csproj.CoreCompileInputs.cache
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.MvcApplicationPartsAssemblyInfo.cache
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.RazorAssemblyInfo.cache
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.RazorAssemblyInfo.cs
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\staticwebassets.build.json
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\staticwebassets.development.json
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\scopedcss\bundle\Calculator ASP core.styles.css
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\scopedcss\projectbundle\Calculator ASP core.bundle.scp.css
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.dll
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\ref\Calculator ASP core.dll
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.pdb
+D:\Developing\Web\Calculator ASP core\Calculator ASP core\obj\Debug\net6.0\Calculator ASP core.genruntimeconfig.cache

@@ -1,0 +1,34 @@
+﻿@model CalData
+@{
+    ViewData["Title"] = "Calculator";
+}
+
+<div>
+    <header>
+        <h1>Calculator</h1>
+    </header>
+    <div>
+        <form>
+            <label class="RESULT">@ViewBag.Result</label>
+            <div>
+                <input type="texbox" asp-for="Value1" />
+                <input type="texbox" asp-for="Value2"/>
+            </div>
+            <div>
+                <div>
+                    <input type="submit" value="Sum" asp-action="Sum"/>
+                    <input type="submit" value="Sub" asp-action="Sub"/>
+                    <input type="submit" value="Cross" asp-action="Cro"/>
+                    <input type="submit" value="Div" asp-action="Div"/>
+                </div>
+                <div>
+                    <input type="submit" value="Factorial" asp-action="Fac"/>
+                    <input type="submit" value="Power" asp-action="Pow"/>
+                    <input type="submit" value="Root" asp-action="Roo"/>
+                    <input type="submit" value="Mod" asp-action="Mod"/>
+                </div>
+                    <input type="submit" value="Clear" asp-action="Clear"/>
+            </div>
+        </form>
+    </div>
+</div>
